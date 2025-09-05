@@ -19,6 +19,16 @@ This dataset provides a comprehensive overview of battery-focused and related ed
 
 By highlighting both academic and professional training opportunities, this dataset serves as a valuable resource for researchers, policymakers, educators, and workforce development planners seeking to understand the educational landscape driving the clean energy and electric vehicle revolution.
 
+## ERD- Diagram:
+<img width="1000" height="1022" alt="betc_ER_diagram" src="https://github.com/user-attachments/assets/d6c3b974-369c-42f5-9311-b134091b5a79" />
+
+
+
+<img width="997" height="1208" alt="betc_ER_diagram (1)" src="https://github.com/user-attachments/assets/60a41039-fc3f-43ac-adbd-e4f6911b378b" />
+
+
+
+
 ## SQL Schema
 
 CREATE DATABASE IF NOT EXISTS betc;
