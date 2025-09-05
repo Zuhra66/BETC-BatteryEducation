@@ -1,0 +1,944 @@
+record_id,job_title
+1,Battery design engineer
+1,cell manufacturing specialist
+1,R&D technician in EV
+1,energy storage
+1,consumer devices
+2,Battery management systems engineer
+2,energy systems analyst
+2,safety compliance roles
+3,Cell manufacturing technician
+3,battery test engineer
+3,process engineer
+4,Energy systems engineer
+4,battery controls engineer
+4,EV integration specialist
+4,sustainability systems designer
+5,Energy Systems Analyst
+5,Battery Test Engineer
+5,Storage Specialist
+6,Energy Systems Analyst
+6,Storage Planning
+6,Systems Integration
+7,BMS engineer
+7,controls engineer
+7,systems integration
+8,Energy materials engineer
+8,battery system designer
+8,energy storage R&D technician
+9,Power systems engineer
+9,grid/infrastructure analyst
+9,energy policy specialist
+10,Energy systems engineer
+10,energy systems analyst
+10,energy materials engineer
+10,battery engineer
+11,Energy systems engineer
+11,energy systems analyst
+11,energy materials engineer
+11,battery engineer
+12,Energy systems engineer
+12,energy systems analyst
+12,energy materials engineer
+12,battery engineer
+13,Automotive specialist
+13,electrical engineer
+13,battery systems engineer
+13,controls engineer
+15,Battery systems engineer
+15,electrochemical R&D researcher
+16,Power systems engineer
+16,battery integration specialist
+16,energy storage analyst
+17,Energy systens engineer
+17,energy systems analyst
+18,Mechanical design engineer
+18,automotive engineer
+18,aerospace engineer
+18,energy systems engineer
+18,robotics engineer
+18,HVAC engineer
+19,Power systems engineer
+19,smart grid specialist
+19,embedded systems engineer
+19,telecommunications engineer
+19,control systems engineer
+19,automation engineer
+22,Energy systems engineer
+22,battery systems researcher
+22,policy advisor
+23,Electrical engineer
+23,electrical systems engineer
+24,Firmware engineer
+24,hardware engineer
+24,network technician
+24,programmer analyst
+24,systems analyst
+25,Energy Storage Engineer
+25,Battery Test Technician
+25,R&D Engineer
+26,Battery Systems Engineer
+26,R&D Technician
+26,Sustainable Energy Specialist
+27,Energy systems engineer
+27,energy systems analyst
+27,energy materials engineer
+27,battery engineer
+28,Battery systems engineer
+28,battery specialist
+28,battery management specialist
+29,Battery systems engineer
+29,battery specialist
+29,battery management specialist
+30,Battery systems engineer
+30,battery specialist
+30,battery management specialist
+31,Electrical engineer
+31,electrical systems engineer
+32,Battery R&D Engineer
+32,Energy Storage Analyst
+32,Electrochemical Systems Specialist
+33,Energy systems researcher
+33,Renewable energy engineer
+33,Battery systems analyst
+34,Battery engineer
+34,Energy storage R&D
+34,EV systems analyst
+35,Battery engineer
+35,Energy storage R&D
+35,EV systems analyst
+36,Battery Scientist
+37,Battery design engineer
+37,Energy storage systems analyst
+37,R&D technician
+38,Energy systems analyst
+38,Battery supply chain specialist
+38,Sustainability consultant
+40,Power systems engineer
+40,power engineer
+40,electrical engineer
+40,systems engineer
+41,Power systems engineer
+41,power engineer
+41,electrical engineer
+41,systems engineer
+42,Battery scientist
+43,Manufacturing engineer
+43,battery manufacturer
+43,battery engineer
+43,battery systems engineer
+44,Electrical engineer
+44,electrical systems engineer
+45,Battery design engineer
+45,energy storage analyst
+45,R&D technician
+46,Battery materials researcher
+46,electrochemical systems engineer
+46,academic researcher
+47,Battery testing technician
+47,system integrator
+47,R&D specialist
+48,Battery technician
+48,manufacturing specialist
+48,energy storage systems analyst
+49,Battery manufacturing engineer
+49,recycling process specialist
+49,product lifecycle engineer
+50,Energy storage researcher
+50,battery system designer
+50,power systems engineer
+51,Battery materials researcher
+51,graduate school eligibility
+52,Battery technician
+53,Energy technician
+54,Battery systems technician
+54,energy storage engineer
+55,Nanomaterials engineer
+55,battery materials specialist
+56,Energy storage researcher
+57,Microgrid engineer
+57,energy systems analyst
+58,Battery systems engineer
+58,energy storage technician
+58,R&D roles
+59,Energy technician
+59,energy systems engineer
+59,battery engineer
+60,Battery engineer
+61,Energy systems analyst
+61,sustainability specialist
+61,policy advisor
+62,Battery R&D engineer
+62,energy storage developer
+62,electrochemical systems analyst
+63,Battery systems engineer
+63,energy storage R&D technician
+64,Energy systems integration specialist
+64,battery R&D engineer
+65,Energy systems integration specialist
+65,battery R&D engineer
+66,Battery systems engineer
+66,energy storage analyst
+66,R&D technologist
+67,Electrochemical systems engineer
+67,battery R&D
+67,energy materials researcher
+68,Battery materials researcher
+68,solid-state battery engineer
+68,energy storage R&D technician
+69,Electrochemical systems engineer
+69,battery R&D specialist
+69,energy materials scientist
+70,Battery engineer
+70,EV systems integrator
+70,energy storage specialist
+71,Smart grid engineer
+71,battery integration specialist
+71,energy storage R&D analyst
+72,Microgrid integration engineer
+72,battery systems researcher
+72,grid storage specialist
+73,Smart grid engineer
+73,battery integration specialist
+73,energy storage R&D analyst
+74,Microgrid integration engineer
+74,battery systems researcher
+74,grid storage specialist
+75,Mechanical design engineer
+75,automotive engineer
+75,aerospace engineer
+75,energy systems engineer
+75,robotics engineer
+75,HVAC engineer
+76,Battery systems technician
+76,energy storage analyst
+76,EV integration specialist
+77,Battery design engineer
+77,electrochemical systems analyst
+77,energy storage engineer
+78,Battery integration engineer
+78,microgrid specialist
+78,smart grid developer
+79,Battery design engineer
+79,electrochemical systems analyst
+79,energy storage engineer
+80,Battery design engineer
+80,electrochemical systems analyst
+80,energy storage engineer
+81,Battery design engineer
+81,electrochemical systems analyst
+81,energy storage engineer
+82,Battery design engineer
+82,electrochemical systems analyst
+82,energy storage engineer
+83,Battery design engineer
+83,electrochemical systems analyst
+83,energy storage engineer
+84,Energy storage analyst
+84,grid storage system specialist
+85,Energy materials researcher
+85,battery cell engineer
+85,storage systems R&D
+86,Energy systems analyst
+86,grid/infrastructure designer
+87,Battery design engineer
+87,energy storage R&D technician
+87,electrochemical device developer
+88,Energy systems analyst
+88,renewable systems engineer
+88,grid storage specialist
+89,Energy systems analyst
+89,smart grid engineer
+89,storage policy advisor
+90,Battery R&D assistant
+90,electrochemistry researcher
+90,lab technician
+91,Battery materials engineer
+91,energy systems R&D technician
+92,Battery materials researcher
+92,energy storage R&D scientist
+93,Energy systems engineer
+93,grid storage specialist
+93,policy analyst
+94,Battery test engineer
+94,power electronics specialist
+94,EV integration engineer
+95,Battery systems engineer
+95,renewable energy analyst
+95,energy storage R&D disciple
+96,Battery modeling analyst
+96,energy storage researcher
+98,Battery systems engineer
+98,energy storage scientist
+98,R&D specialist
+99,Battery design engineer
+99,energy systems specialist
+99,EV systems technician
+100,Smart grid engineer
+100,battery systems integrator
+100,energy policy analyst
+101,Battery R&D technician
+101,battery system integration specialist
+101,lab engineer
+105,Battery materials engineer
+105,electrochemical researcher
+105,energy storage scientist
+106,Energy storage scientist
+106,materials engineer
+106,electrochem analyst
+107,Battery materials scientist
+107,electrochemical engineer
+107,energy storage R&D
+110,Battery/fuel cell R&D technician
+110,energy storage engineer
+110,systems analyst
+111,Renewable energy engineer
+111,energy systems analyst
+111,PV system designer
+113,Battery systems engineer
+113,battery specialist
+113,battery management specialist
+114,Battery systems engineer
+114,battery specialist
+114,battery management specialist
+115,Battery systems engineer
+115,battery specialist
+115,battery management specialist
+118,Battery systems engineer
+118,battery specialist
+118,battery management specialist
+121,Energy engineer
+121,electrical engineer
+121,energy systems engineer
+123,Electrical engineer
+123,electrical systems engineer
+124,Materials scientist
+124,material science engineer
+124,battery management
+125,Electrical engineer
+125,electrical systems engineer
+127,Electrical engineer
+127,electrical systems engineer
+127,computer engineer
+128,Materials scientist
+128,material science engineer
+128,battery management
+129,Energy engineer
+129,electrical engineer
+129,energy systems engineer
+131,Energy systems engineer
+131,energy materials engineer
+131,battery engineer
+136,Electrical engineer
+136,electrical systems engineer
+137,Battery systems engineer
+137,battery specialist
+137,battery management specialist
+138,Energy systems engineer
+138,energy materials engineer
+138,battery engineer
+139,Electrical engineer
+139,electrical technician
+139,systems engineer
+140,Electrical engineer
+140,electrical technician
+140,systems engineer
+141,Electrical engineer
+141,electrical technician
+141,systems engineer
+142,Electrical engineer
+142,electrical technician
+142,systems engineer
+143,Battery systems engineer
+143,battery specialist
+143,battery management specialist
+144,Battery systems engineer
+144,battery specialist
+144,battery management specialist
+145,Battery systems engineer
+145,battery specialist
+145,battery management specialist
+146,Battery systems engineer
+146,battery specialist
+146,battery management specialist
+147,Energy systems engineer
+147,energy materials engineer
+147,battery engineer
+148,Mining Engineer
+148,Geological Engineer
+148,Mining Safety Engineer
+148,Sales Engineer
+150,Battery systems engineer
+150,battery management specialist
+150,microgrid specialist
+151,Energy storage scientist
+151,materials engineer
+151,electrochem analyst
+153,Energy systems engineer
+153,energy materials engineer
+153,battery engineer
+155,Energy systems engineer
+155,energy materials engineer
+155,battery engineer
+156,Battery systems engineer
+156,battery specialist
+156,battery management specialist
+159,Energy systems engineer
+159,energy materials engineer
+159,battery engineer
+164,Battery systems engineer
+164,battery specialist
+164,battery management specialist
+165,Battery systems engineer
+165,battery specialist
+165,battery management specialist
+166,Mining Engineer
+166,Geological Engineer
+166,Mining Safety Engineer
+166,Sales Engineer
+167,Energy systems engineer
+167,energy materials engineer
+167,battery engineer
+169,Energy systems engineer
+169,energy materials engineer
+169,battery engineer
+170,Energy systems engineer
+170,battery engineer
+170,petroleum engineer
+171,Energy systems engineer
+171,energy materials engineer
+171,battery engineer
+172,Electrical engineer
+172,electrical technician
+172,systems engineer
+173,Electrical engineer
+173,electrical technician
+173,systems engineer
+174,Electrical engineer
+174,electrical technician
+174,systems engineer
+175,Electrical engineer
+175,electrical technician
+175,systems engineer
+178,Electrical engineer
+178,electrical technician
+178,systems engineer
+179,Energy systems engineer
+179,energy materials engineer
+179,battery engineer
+180,Oil industry
+180,drilling engineering
+181,Working with various diesel engine applications
+182,Electrical engineer
+182,electrical technician
+182,systems engineer
+183,Materials scientist
+183,material science engineer
+183,battery management
+184,Materials scientist
+184,material science engineer
+184,battery management
+185,Energy systems engineer
+185,energy materials engineer
+185,battery engineer
+186,Energy systems engineer
+186,energy materials engineer
+186,battery engineer
+187,Energy systems engineer
+187,energy materials engineer
+187,battery engineer
+188,Energy systems engineer
+188,energy materials engineer
+188,battery engineer
+189,Battery engineer
+189,EV systems integrator
+189,energy storage specialist
+190,Energy systems engineer
+190,energy materials engineer
+190,battery engineer
+191,Energy systems engineer
+191,energy materials engineer
+191,battery engineer
+192,Energy systems engineer
+192,energy materials engineer
+192,battery engineer
+193,Battery systems engineer
+193,battery specialist
+193,battery management specialist
+194,Battery systems engineer
+194,battery specialist
+194,battery management specialist
+195,Electrical engineer
+195,electrical technician
+195,systems engineer
+196,Electrical engineer
+196,electrical technician
+196,systems engineer
+197,Electrical engineer
+197,electrical technician
+197,systems engineer
+198,Energy systems engineer
+198,energy materials engineer
+198,battery engineer
+199,Electrical engineer
+199,electrical technician
+199,systems engineer
+200,Electrical engineer
+200,electrical technician
+200,systems engineer
+201,Electrical engineer
+201,electrical technician
+201,systems engineer
+202,Electrical engineer
+202,electrical technician
+202,systems engineer
+203,Energy systems engineer
+203,energy materials engineer
+203,battery engineer
+204,Battery systems engineer
+204,battery specialist
+204,battery management specialist
+206,Energy systems engineer
+206,energy materials engineer
+206,battery engineer
+207,Energy systems engineer
+207,energy materials engineer
+207,battery engineer
+208,Electrical engineer
+208,electrical technician
+208,systems engineer
+209,Energy systems engineer
+209,energy materials engineer
+209,battery engineer
+210,Battery systems engineer
+210,battery specialist
+210,battery management specialist
+213,Power systems engineer
+213,grid/infrastructure analyst
+213,energy policy specialist
+214,Power/energy systems analyst
+215,Power systems engineer
+216,Electrode development engineer
+217,Materials and energy scientist/engineer in energy storage and related fields
+218,Battery systems engineer
+218,battery specialist
+218,battery management specialist
+218,energy systems specialist
+220,Energy systems engineer
+220,energy materials engineer
+220,battery engineer
+222,Electrical engineer
+222,electrical technician
+222,systems engineer
+223,Battery systems engineer
+223,battery specialist
+223,battery management specialist
+223,energy systems specialist
+224,Battery systems engineer
+224,battery specialist
+224,battery management specialist
+224,energy systems specialist
+227,Battery engineer
+227,energy systems analyst
+227,research roles
+228,Battery materials engineer
+228,electrochemical systems researcher
+231,Mechanical design engineer
+231,automotive engineer
+231,aerospace engineer
+231,energy systems engineer
+231,robotics engineer
+231,HVAC engineer
+232,Electrical engineer
+232,electrical technician
+232,systems engineer
+233,Electrical engineer
+233,electrical technician
+233,systems engineer
+234,Automotive electrical diagnostic technician
+234,battery system technician
+234,starting/charging system specialist
+237,Electrical engineer
+237,electrical technician
+237,systems engineer
+237,power technician
+239,Electrical engineer
+239,electrical technician
+239,systems engineer
+239,power technician
+240,Battery systems engineer
+240,electrochemical R&D researcher
+241,Materials engineer
+241,battery R&D scientist
+242,Electrical engineer
+242,electrical technician
+242,systems engineer
+242,power technician
+243,Energy systems engineer
+243,energy materials engineer
+243,battery engineer
+244,Electrical engineer
+244,electrical technician
+244,systems engineer
+244,power technician
+245,Electrical engineer
+245,electrical technician
+245,systems engineer
+245,power technician
+246,Electrical engineer
+246,electrical technician
+246,systems engineer
+246,power technician
+248,Battery systems engineer
+248,electrochemical R&D researcher
+249,Electrical engineer
+249,electrical technician
+249,systems engineer
+249,power technician
+250,Electrical engineer
+250,electrical technician
+250,systems engineer
+250,power technician
+251,Electrical engineer
+251,electrical technician
+251,systems engineer
+251,power technician
+252,Mechanical design engineer
+252,automotive engineer
+252,aerospace engineer
+252,energy systems engineer
+252,robotics engineer
+252,HVAC engineer
+253,Mechanical design engineer
+253,automotive engineer
+253,aerospace engineer
+253,energy systems engineer
+253,robotics engineer
+253,HVAC engineer
+254,Energy systems engineer
+254,energy materials engineer
+254,battery engineer
+256,Electrical engineer
+256,electrical technician
+256,systems engineer
+256,power technician
+257,Electrical engineer
+257,electrical technician
+257,systems engineer
+257,power technician
+258,Electrical engineer
+258,electrical technician
+258,systems engineer
+258,power technician
+259,Mechanical design engineer
+259,automotive engineer
+259,aerospace engineer
+259,energy systems engineer
+259,robotics engineer
+259,HVAC engineer
+260,Mechanical design engineer
+260,automotive engineer
+260,aerospace engineer
+260,energy systems engineer
+260,robotics engineer
+260,HVAC engineer
+261,Mechanical design engineer
+261,automotive engineer
+261,aerospace engineer
+261,energy systems engineer
+261,robotics engineer
+261,HVAC engineer
+262,Electrical engineer
+262,software engineer
+262,broadcast engineer
+262,control and instrumentation engineer
+262,electronics engineer
+262,systems design engineer
+262,network engineer
+262,systems analyst
+263,Electrical engineer
+263,electrical technician
+263,systems engineer
+263,power technician
+264,Battery systems engineer
+264,battery specialist
+264,battery management specialist
+265,Mechanical design engineer
+265,automotive engineer
+265,aerospace engineer
+265,energy systems engineer
+265,robotics engineer
+265,HVAC engineer
+266,Energy systems engineer
+266,energy materials engineer
+266,battery engineer
+267,Energy systems engineer
+267,energy materials engineer
+267,battery engineer
+268,Energy systems engineer
+268,energy materials engineer
+268,battery engineer
+269,Battery systems engineer
+269,battery specialist
+269,battery management specialist
+270,Electrical engineer
+270,electrical technician
+270,systems engineer
+270,power technician
+271,Mechanical design engineer
+271,automotive engineer
+271,aerospace engineer
+271,energy systems engineer
+271,robotics engineer
+271,HVAC engineer
+272,Electrical engineer
+272,software engineer
+272,broadcast engineer
+272,control and instrumentation engineer
+272,electronics engineer
+272,systems design engineer
+272,network engineer
+272,systems analyst
+273,Electrical engineer
+273,software engineer
+273,broadcast engineer
+273,control and instrumentation engineer
+273,electronics engineer
+273,systems design engineer
+273,network engineer
+273,systems analyst
+274,Mechanical design engineer
+274,automotive engineer
+274,aerospace engineer
+274,energy systems engineer
+274,robotics engineer
+274,HVAC engineer
+275,Electrical engineer
+275,electrical technician
+275,systems engineer
+275,power technician
+276,Mechanical design engineer
+276,automotive engineer
+276,aerospace engineer
+276,energy systems engineer
+276,robotics engineer
+276,HVAC engineer
+277,Energy systems engineer
+277,energy materials engineer
+277,battery engineer
+278,Energy systems engineer
+278,energy materials engineer
+278,battery engineer
+279,Battery systems engineer
+279,battery specialist
+279,battery management specialist
+280,Electrical engineer
+280,electrical technician
+280,systems engineer
+280,power technician
+281,Mechanical design engineer
+281,automotive engineer
+281,aerospace engineer
+281,energy systems engineer
+281,robotics engineer
+281,HVAC engineer
+282,Electrical engineer
+282,electrical technician
+282,systems engineer
+282,power technician
+283,Battery systems engineer
+283,battery specialist
+283,battery management specialist
+284,Electrical engineer
+284,electrical technician
+284,systems engineer
+284,power technician
+287,Power systems engineer
+287,power engineer
+287,electrical engineer
+287,systems engineer
+288,Power systems engineer
+288,power engineer
+288,electrical engineer
+288,systems engineer
+289,Electrical engineer
+289,electrical technician
+289,systems engineer
+289,power technician
+290,Electrical engineer
+290,electrical technician
+290,systems engineer
+290,power technician
+291,Mechanical design engineer
+291,automotive engineer
+291,aerospace engineer
+291,energy systems engineer
+291,robotics engineer
+291,HVAC engineer
+292,Mechanical design engineer
+292,automotive engineer
+292,aerospace engineer
+292,energy systems engineer
+292,robotics engineer
+292,HVAC engineer
+293,Electrical engineer
+293,electrical technician
+293,systems engineer
+293,power technician
+294,Electrical engineer
+294,electrical technician
+294,systems engineer
+294,power technician
+296,Electrical engineer
+296,electrical technician
+296,systems engineer
+296,power technician
+297,Electrical engineer
+297,electrical technician
+297,systems engineer
+297,power technician
+298,Energy systems engineer
+298,energy materials engineer
+298,battery engineer
+299,Electrical engineer
+299,electrical technician
+299,systems engineer
+299,power technician
+300,Mechanical design engineer
+300,automotive engineer
+300,aerospace engineer
+300,energy systems engineer
+300,robotics engineer
+300,HVAC engineer
+301,Energy engineer
+302,Energy Engineer
+303,Energy Engineer
+304,Energy Storage Researcher
+305,Materials Scientist
+306,Materials Researcher
+307,Battery Researcher
+308,Battery technician/researcher
+309,Energy storage technician
+310,Electrical/Battery Tech
+311,Electrical/Battery Tech
+312,Energy technician
+313,Electrical line/battery tech
+314,Energy technician
+315,Electrical/Battery tech
+316,Lineworker
+316,battery technician
+317,Energy engineer
+318,Telecommunications Engineer
+318,Controls engineer
+318,power system engineer
+318,mechatronics engineer
+319,Technician
+320,Power systems engineer
+321,Technician
+322,Engineer
+323,Lab technician
+325,Electrical engineer
+326,Battery installer
+327,Energy technician
+328,Manufacturing engineer
+329,Energy technician
+330,Power technician
+331,Energy technician
+332,Energy technician
+334,Electrical technician
+335,Energy technician
+337,Electrical technician
+338,Electrical technician
+341,Electrical technician
+342,Electrical technician
+343,Energy technician
+344,Engineering tech
+346,Engineering technician
+347,Electrical technician
+349,Electrical technician
+350,Battery technician
+351,Energy technician
+352,Materials technician
+353,Energy storage researcher
+354,Energy engineer
+354,battery engineer
+355,Energy technician
+356,Battery technician
+357,Battery technician
+358,Battery technician
+359,Prototype technician
+360,Electrical engineering technician
+360,elelctrical engineer
+361,Electrical/Battery Tech
+362,Electrical/Battery Tech
+363,Electrical/Battery Tech
+364,Electrical engineer
+365,Electrical/Battery Tech
+366,Electrical and Electronics Drafter
+366,Electronic Engineering Technologist
+366,Electrical Engineering Technician
+367,Power systems technician
+368,Renewable energy technician
+369,Energy systems tech
+370,Electrical technician
+371,Electrical engineer
+372,Electrical technician
+373,EV tech
+374,Battery storage technician
+376,Battery engineer
+377,Battery engineer
+378,Battery engineer
+379,Energy analyst
+380,Battery engineer
+381,Battery engineer
+382,Battery engineer
+383,Battery engineer
+384,Battery engineer
+385,Energy management specialist
+386,Energy technician
+387,Energy technician
+388,Battery engineer
+389,Battery engineer
+390,Energy systems tech
+391,Battery engineer
+392,Renewable energy engineer
+393,Electrical engineer
+394,Electrical technician
+395,Electrical engineer
+396,Electrical engineer
+400,Electrical engineer
+401,Electrical technician
+403,Electrical technician
+404,Battery engineer
+405,Battery engineer
+406,Electrical technician
+407,Battery engineer
+408,Electrical technician
+409,Electrical engineer
+410,Electrical technician
+411,Electrical technician
+413,EV tech
+414,Energy tech
+415,EV tech
+416,EV tech
+417,Energy tech
+418,EV tech
+419,Electrical technician
+420,Battery engineer
+421,Energy tech
+422,Electrical engineer
+424,Electrical technician
+425,Electrical technician
+426,Battery engineer
+427,Electrical technician
+428,Electrical technician
+429,EV tech
+430,EV tech
+431,EV tech
+432,EV tech
+433,Electrical technician
+434,Battery engineer
+435,Battery engineer
+436,Battery engineer
+437,Battery engineer
+438,Policy analyst
